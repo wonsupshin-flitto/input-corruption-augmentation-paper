@@ -1,0 +1,6 @@
+# Reproducibility code for the random-replace data-constrained pretraining study.
+# Tested with Python 3.10 and CUDA 12.x on a single L4 / L40S GPU.
+torch>=2.1
+numpy>=1.24
+sentencepiece>=0.1.99
+datasets>=2.14

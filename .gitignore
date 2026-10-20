@@ -1,0 +1,10 @@
+# data, checkpoints, run outputs (not part of the code release)
+data_bin_*/
+runs/
+*.bin
+*.pt
+*.model
+*.vocab
+__pycache__/
+*.pyc
+.DS_Store

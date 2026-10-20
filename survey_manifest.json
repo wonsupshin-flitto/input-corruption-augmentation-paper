@@ -1,0 +1,423 @@
+[
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "kor_Hang",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "jpn_Jpan",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "cmn_Hani",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "rus_Cyrl",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "deu_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "fra_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "spa_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "arb_Arab",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "hin_Deva",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "vie_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "tha_Thai",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "ind_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "por_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "ita_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "tur_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "pol_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "fas_Arab",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "ukr_Cyrl",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.ko",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.ja",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.en",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.zh",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.de",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.fr",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.ru",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.ar",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.hi",
+  "field": "text"
+ },
+ {
+  "category": "wiki_prose",
+  "dataset": "wikimedia/wikipedia",
+  "config": "20231101.vi",
+  "field": "text"
+ },
+ {
+  "category": "legal",
+  "dataset": "coastalcph/lex_glue",
+  "config": "eurlex",
+  "field": "text"
+ },
+ {
+  "category": "legal",
+  "dataset": "coastalcph/lex_glue",
+  "config": "ledgar",
+  "field": "text"
+ },
+ {
+  "category": "legal",
+  "dataset": "coastalcph/lex_glue",
+  "config": "unfair_tos",
+  "field": "text"
+ },
+ {
+  "category": "legal",
+  "dataset": "coastalcph/lex_glue",
+  "config": "scotus",
+  "field": "text"
+ },
+ {
+  "category": "legal",
+  "dataset": "coastalcph/lex_glue",
+  "config": "ecthr_a",
+  "field": "text"
+ },
+ {
+  "category": "legal",
+  "dataset": "joelniklaus/legal_case_document_summarization",
+  "config": null,
+  "field": "judgement"
+ },
+ {
+  "category": "code",
+  "dataset": "code_search_net",
+  "config": "python",
+  "field": "whole_func_string",
+  "load_kwargs": {
+   "trust_remote_code": true
+  }
+ },
+ {
+  "category": "code",
+  "dataset": "code_search_net",
+  "config": "java",
+  "field": "whole_func_string",
+  "load_kwargs": {
+   "trust_remote_code": true
+  }
+ },
+ {
+  "category": "code",
+  "dataset": "code_search_net",
+  "config": "javascript",
+  "field": "whole_func_string",
+  "load_kwargs": {
+   "trust_remote_code": true
+  }
+ },
+ {
+  "category": "code",
+  "dataset": "code_search_net",
+  "config": "go",
+  "field": "whole_func_string",
+  "load_kwargs": {
+   "trust_remote_code": true
+  }
+ },
+ {
+  "category": "code",
+  "dataset": "code_search_net",
+  "config": "php",
+  "field": "whole_func_string",
+  "load_kwargs": {
+   "trust_remote_code": true
+  }
+ },
+ {
+  "category": "code",
+  "dataset": "code_search_net",
+  "config": "ruby",
+  "field": "whole_func_string",
+  "load_kwargs": {
+   "trust_remote_code": true
+  }
+ },
+ {
+  "category": "reviews_news_sci",
+  "dataset": "ccdv/arxiv-summarization",
+  "config": null,
+  "field": "article"
+ },
+ {
+  "category": "reviews_news_sci",
+  "dataset": "abisee/cnn_dailymail",
+  "config": "3.0.0",
+  "field": "article"
+ },
+ {
+  "category": "machine_log",
+  "dataset": "bolu61/loghub_2",
+  "config": null,
+  "field": "text"
+ },
+ {
+  "category": "machine_log",
+  "dataset": "ridwanakm/hdfs-log-anomaly-dataset-lite",
+  "config": null,
+  "field": "text"
+ },
+ {
+  "category": "machine_serialized",
+  "dataset": "mindweave/web-server-logs",
+  "config": null,
+  "field": "text",
+  "json_dump": true
+ },
+ {
+  "category": "news",
+  "dataset": "fancyzhx/ag_news",
+  "config": null,
+  "field": "text"
+ },
+ {
+  "category": "news",
+  "dataset": "SetFit/bbc-news",
+  "config": null,
+  "field": "text"
+ },
+ {
+  "category": "math",
+  "dataset": "open-web-math/open-web-math",
+  "config": null,
+  "field": "text"
+ },
+ {
+  "category": "medical",
+  "dataset": "TimSchopf/medical_abstracts",
+  "config": null,
+  "field": "medical_abstract"
+ },
+ {
+  "category": "dialogue",
+  "dataset": "Anthropic/hh-rlhf",
+  "config": null,
+  "field": "chosen"
+ },
+ {
+  "category": "social",
+  "dataset": "cardiffnlp/tweet_eval",
+  "config": "emotion",
+  "field": "text"
+ },
+ {
+  "category": "social",
+  "dataset": "zeroshot/twitter-financial-news-sentiment",
+  "config": null,
+  "field": "text"
+ },
+ {
+  "category": "scientific",
+  "dataset": "CShorten/ML-ArXiv-Papers",
+  "config": null,
+  "field": "abstract"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "heb_Hebr",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "ell_Grek",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "ben_Beng",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "tam_Taml",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "tel_Telu",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "mal_Mlym",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "guj_Gujr",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "kan_Knda",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "urd_Arab",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "swh_Latn",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "amh_Ethi",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "kaz_Cyrl",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "kat_Geor",
+  "field": "text"
+ },
+ {
+  "category": "web_prose",
+  "dataset": "HuggingFaceFW/fineweb-2",
+  "config": "hye_Armn",
+  "field": "text"
+ }
+]
